@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/9517/.idea/9517.iml" filepath="$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/9517/.idea/9517.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/CV/CV_baseline/.idea/CV_baseline.iml" filepath="$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/CV/CV_baseline/.idea/CV_baseline.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/OpenCV 图像基础/.idea/OpenCV 图像基础.iml" filepath="$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/OpenCV 图像基础/.idea/OpenCV 图像基础.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/pytorch/.idea/pytorch.iml" filepath="$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/pywork/pytorch/.idea/pytorch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/CV/transformer/.idea/transformer.iml" filepath="$PROJECT_DIR$/../../../../../CloudStorage/OneDrive-UNSW/CV/transformer/.idea/transformer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
